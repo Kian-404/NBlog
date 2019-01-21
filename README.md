@@ -17,12 +17,12 @@ npm run start
 
 
 # 生产环境配置文件配置
+/config/production.js 
 
-``` /config/production.js ```
 
 # 项目文件目录结构
 
-```bash
+``` bash
 .
 ├── README.md
 ├── config
