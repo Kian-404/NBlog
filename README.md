@@ -22,7 +22,7 @@ npm run start
 
 # 项目文件目录结构
 
-```
+```bash
 .
 ├── README.md
 ├── config
